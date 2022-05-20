@@ -30,7 +30,7 @@
 
 </div></br>
 
-Take a look at some of my projects : https://github.com/acsnevesgit/MyProjects
+Take a look at some of my projects : https://github.com/acsnevesgit/projects
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acsnevesgit&theme=nord_bright" width="550" height="200"/> <img src="https://user-images.githubusercontent.com/94974740/169034003-ac967bc9-6fab-431a-850b-5f15514251e2.gif" width="160" height="160"/>
