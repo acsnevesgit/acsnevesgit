@@ -1,8 +1,8 @@
 <div align="center">
-  
-![HELLO](https://user-images.githubusercontent.com/94974740/169040956-5cfda00a-b86c-4c3f-be01-7d08986d76f0.png)
 
-<div align="left">  
+![githeader](https://user-images.githubusercontent.com/94974740/175607657-6653333b-96d6-4144-b48b-c63c836d9cc0.png)
+  
+<div align="left">
 
 ---
 
@@ -39,7 +39,7 @@
 
 </br><div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,html,css,sass,bootstrap,styledcomponents,react,nodejs,expressjs,nextjs,postgres,mongodb,jest,github,gitlab,vscode,netlify,heroku,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,html,css,sass,bootstrap,styledcomponents,materialui,react,nodejs,expressjs,postgres,mongodb,graphql,firebase,jest,github,gitlab,vscode,netlify,heroku,autocad)](https://skillicons.dev)
 
 </div></br>
 
