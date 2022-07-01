@@ -16,7 +16,7 @@
 - Worked as a Developer/Research Engineer with focus on Autonomous Transport Solutions.</br>
 
 ### CURRENTLY
-- Just completed a 3-month Full Stack Developer Course (**LOVED IT!**) and looking for a internship/job as a web developer.</br>
+- Just completed a 3-month Full Stack Developer Course and looking for a internship/job as a web developer.</br>
 - Working on my personal projects when possible.</br>
 - Keep learning, **ALWAYS**!</br>
 
