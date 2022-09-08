@@ -40,7 +40,7 @@
 
 </br><div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,html,css,sass,bootstrap,styledcomponents,materialui,react,nodejs,expressjs,postgres,mongodb,graphql,firebase,jest,github,gitlab,vscode,netlify,heroku,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,html,css,sass,bootstrap,styledcomponents,materialui,react,angular,nodejs,expressjs,postgres,mongodb,graphql,firebase,jest,github,gitlab,vscode,netlify,heroku,autocad)](https://skillicons.dev)
 
 </div></br>
 
