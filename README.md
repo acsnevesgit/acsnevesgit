@@ -3,6 +3,8 @@
 ![HELLO](https://user-images.githubusercontent.com/94974740/169040956-5cfda00a-b86c-4c3f-be01-7d08986d76f0.png)
 
 <h3>https://acsneves-portfolio.netlify.app/</h3>
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
   
 <div align="left">
 
