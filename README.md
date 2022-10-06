@@ -7,7 +7,8 @@
 ---
 
 ### ABOUT ME
-- Engineering background but trying to change into Software Development.</br>
+- Portuguese/Ukrainian living in Sweden. :portugal: :ukraine: :sweden:</br>
+- Engineering background but currently working with Software Development.</br>
 - Dedicated learner, insatiable curiosity and quick-witted.</br>
 
 ### BACKGROUND
@@ -16,9 +17,10 @@
 - Worked as a Developer/Research Engineer with focus on Autonomous Transport Solutions.</br>
 
 ### CURRENTLY
-- Just completed a 3-month Full Stack Developer Course and looking for a internship/job as a web developer.</br>
+- Just completed a 3-month Junior Full-Stack Developer Bootcamp and looking for job as a web developer.</br>
 - Working on my personal projects when possible.</br>
-- Keep learning, **ALWAYS**!</br>
+- Educating myself through high-quality, trustworthy sources: official documentation, blog posts, podcasts, videos, etc.</br>
+- Learning, Learning, Learning - **ALWAYS**!</br>
 
 ---
 
