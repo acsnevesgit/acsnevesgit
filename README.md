@@ -1,30 +1,30 @@
 <div align="center">
 
 ![HELLO](https://user-images.githubusercontent.com/94974740/169040956-5cfda00a-b86c-4c3f-be01-7d08986d76f0.png)
+
+<h3>https://acsneves-portfolio.netlify.app/</h3>
   
 <div align="left">
 
 ---
 
-### ABOUT ME
+<h3>ABOUT ME</h3>
 - Portuguese/Ukrainian living in Sweden. :portugal: :ukraine: :sweden:</br>
 - Engineering background but currently working with Software Development.</br>
 - Dedicated learner, insatiable curiosity and quick-witted.</br>
 
-### BACKGROUND
+<h3>BACKGROUND</h3>
 - Masters Degree in Civil Engineering (Structures).</br>
 - PhD Degree in Bridge Engineering (SHM).</br>
 - Worked as a Developer/Research Engineer with focus on Autonomous Transport Solutions.</br>
 
-### CURRENTLY
+<h3>CURRENTLY</h3>
 - Just completed a 3-month Junior Full-Stack Developer Bootcamp and looking for job as a web developer.</br>
 - Working on my personal projects when possible.</br>
 - Educating myself through high-quality, trustworthy sources: official documentation, blog posts, podcasts, videos, etc.</br>
-- Learning, Learning, Learning - **ALWAYS**!</br>
+- Learning, Learning, Learning - <b>ALWAYS</b>!</br>
 
 ---
-
-<p>Portfolio : https://acsneves-portfolio.netlify.app/</p>
 
 <br/><div align="center">
   
