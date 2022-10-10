@@ -28,13 +28,13 @@
 
 <br/><div align="center">
   
-<img src="https://user-images.githubusercontent.com/94974740/170088733-dc95c74a-be3b-4452-b7f4-bd2e31a8bd62.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/173863751-03ec7eb3-f09a-4309-919a-5f49d8225d93.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/170074595-9f8b64b7-4812-4d55-a138-874a1b87ae96.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/170084745-9fdf7df5-1fce-4310-86b8-e3b4028f301a.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/175562524-bba2bb0b-7402-4095-9ef8-c0b255442884.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/170089627-cf74df86-aab6-4989-9058-58e078aad9cf.png"  width="300" height="auto" />
-<img src="https://user-images.githubusercontent.com/94974740/194906468-2880ce6c-63fc-4f81-99a1-65087ea2b05a.png"  width="300" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/170088733-dc95c74a-be3b-4452-b7f4-bd2e31a8bd62.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/173863751-03ec7eb3-f09a-4309-919a-5f49d8225d93.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/170074595-9f8b64b7-4812-4d55-a138-874a1b87ae96.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/170084745-9fdf7df5-1fce-4310-86b8-e3b4028f301a.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/175562524-bba2bb0b-7402-4095-9ef8-c0b255442884.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/170089627-cf74df86-aab6-4989-9058-58e078aad9cf.png"  width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/94974740/194906468-2880ce6c-63fc-4f81-99a1-65087ea2b05a.png"  width="200" height="auto" />
 
 <div align="center">
 
