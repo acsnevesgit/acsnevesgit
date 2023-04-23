@@ -16,13 +16,13 @@
 - Dedicated learner, insatiable curiosity and quick-witted.</br>
 
 <h3>BACKGROUND</h3>
-- Masters Degree in Civil Engineering (Structures).</br>
-- PhD Degree in Bridge Engineering (SHM).</br>
-- Worked as a Developer/Research Engineer with focus on Autonomous Transport Solutions.</br>
-- Joined a 3-month Junior Full-Stack Developer Bootcamp in early 2022.
+- Masters Degree in Civil Engineering (Structures) in 2015.</br>
+- PhD Degree in Bridge Engineering (SHM) in 2020.</br>
+- Worked as a Developer/Research Engineer with focus on Autonomous Transport Solutions in 2021.</br>
+- Joined a 3-month Junior Full-Stack Developer Bootcamp in 2022.
 
 <h3>CURRENTLY</h3>
-- Working as a full-stack developer at https://www.linkedin.com/company/storykitio/about/.</br>
+- Working as a Full-Stack Developer at https://www.linkedin.com/company/storykitio/about/ since 2022.</br>
 - Working on my personal projects when possible.</br>
 - Contributing to a new project: https://trackid.net/ 🎵🆔
 
