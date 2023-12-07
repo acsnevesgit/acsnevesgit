@@ -13,7 +13,7 @@
 <h3>ABOUT ME</h3>
 - Portuguese/Ukrainian living in Sweden. :portugal: :ukraine: :sweden:</br>
 - Engineering background but currently working with Software Development.</br>
-- Dedicated learner, insatiable curiosity and quick-witted.</br>
+- Dedicated learner with insatiable curiosity.</br>
 
 <h3>BACKGROUND</h3>
 - Masters Degree in Civil Engineering (Structures) in 2015.</br>
