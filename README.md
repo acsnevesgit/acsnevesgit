@@ -24,7 +24,7 @@
 <h3>CURRENTLY</h3>
 - Working as a Full-Stack Developer at https://www.linkedin.com/company/storykitio/about/ since 2022.</br>
 - Working on my personal projects when possible.</br>
-- Contributing to a new project: https://trackid.net/ (mainly FE) 🎵🆔
+- Contributing to a new project: https://trackid.net/ 🎵🆔
 
 ---
 
